@@ -1,0 +1,3 @@
+CLIENT_USERNAME="timboiu.razvan@at"
+CLIENT_CODE="d751b986666147cc9c2407d44621abe7.s1.eu.hivemq.cloud"
+CLIENT_PASSWORD="5CeqjvM#G+"
